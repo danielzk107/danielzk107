@@ -2,7 +2,7 @@
 
 Hi! thanks for visiting my Github page. I am currently a third year CS student at Ariel University, so most projects here are inevitably related to my studies. Please note that i upload most, if not all, of my commits via non-specific IDEs and not neccessarily through a verified Github source. This means that most commits made by me in any of the projects in this page are not credited to any account, and therefore do not show up as my commits. 
 
-If you wish to speak with me about my projects or anything else (preferably ASOIAF or animation😄), you can find me at:
+If you wish to speak with me about my projects or anything else (preferably ASOIAF or music😄), you can find me at:
 
 [@danielzk107](https://twitter.com/danielzk107) on twitter
 

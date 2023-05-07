@@ -9,7 +9,7 @@ If you wish to speak with me about my projects or anything else (preferably ASOI
 danielzk107@gmail.com
 
 
-If I am not available through either of those, I am propably at the exact amount of busyness that requires one not to check their phone.
+If I am not available through either of those, I am propably at the approximate amount of busyness that requires one not to check their phone.
 <!--
 **danielzk107/danielzk107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
